@@ -33,3 +33,9 @@ L'application de gestion stock comprend les fonctionnalités suivantes :
 -  Dans cette interface l’utilisateur remplis le cahier de vente avec la possibilité de l’imprimer de l’imprimer.
       Utilisateurs :
 -  Dans cette interface l’admin peut gérer les utilisateurs de l’application avec la possibilité d’ajouter supprimer , modifier les informations d’un utilisateurs, ainsi que la recherche d’un utilisateurs. 
+
+
+## Crédits
+
+Cette application a été développée par Nahi Zakaria et   Archidi abdelkader en tant que projet pour IHM à EST SB (Sidi Bennour).
+
